@@ -27,6 +27,13 @@ countries.
 
 Please ask your lawyer and let us know if the documents require any changes.
 
+## Contributions
+
+Contributions from lawyers are welcome and can be done by submitting issues
+and pull requests on the [source
+repository](https://github.com/numtide/software-consulting-documents) or by
+sending us an email at <a href="mailto:info@numtide.com">info@numtide.com</a>.
+
 ## Licence
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
