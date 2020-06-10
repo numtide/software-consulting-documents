@@ -15,8 +15,8 @@ and make sure that all the values are correct.
 
 ## Templates
 
-* [Non-Disclosure Agreement](NDA.md)
-* ICO (work in progress)
+* [Mutual Non-Disclosure Agreement](NDA.md)
+* [Idependent Contractor Agreement](ICA.md)
 
 ## Jurisdiction and Governing laws
 

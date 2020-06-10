@@ -1,4 +1,4 @@
-# This Mutual Non-disclosure Agreement (the "NDA")
+# Mutual Non-disclosure Agreement
 
 This Non-disclosure Agreement (the “NDA”) is defined as such.
 
