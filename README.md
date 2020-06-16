@@ -16,7 +16,7 @@ and make sure that all the values are correct.
 ## Templates
 
 * [Mutual Non-Disclosure Agreement](NDA.md)
-* [Idependent Contractor Agreement](ICA.md)
+* [Independent Contractor Agreement](ICA.md)
 
 ## Jurisdiction and Governing laws
 
