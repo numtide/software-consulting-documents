@@ -102,8 +102,8 @@ L. The Parties agree that all provisions stipulated in letter F, G, H, I, J
 and K in this section shall survive the expiration or termination of this
 Agreement;
 
-M. The Parties agree to exercising good faith and best efforts to adhere all
-clauses stipulated in this section and Standard Conditions.
+M. The Parties agree to exercising good faith and best efforts to adhere to
+all clauses stipulated in this section and Standard Conditions.
 
 ## Definitions
 
@@ -208,9 +208,9 @@ the beginning of the notice period;
 the insolvency of either party; or (if applicable)  (ii) the death of
 Contractor;
 
-2.5. On termination of this agreement, for any cause whatsoever, Contractor
-shall remain entitled to payment for any outstanding work or expenses payments
-up to and including the termination date.
+2.5. On termination of this agreement, for any cause whatsoever, the
+Contractor shall remain entitled to payment for any outstanding work or
+expenses payments up to and including the termination date.
 
 ### 3. Conflict of Interest
 
