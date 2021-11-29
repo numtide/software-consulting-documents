@@ -4,6 +4,7 @@ This Independent Contractor Agreement (the "Agreement") is defined as such.
 
 Given:
 * **Effective Date**:
+* **Termination Date**: None
 * **Customer**:
   * Identity:
   * Correspondence Address: same as registered office address.
@@ -35,7 +36,8 @@ services. Contractor will remain liable for the services completed by
 substitute personnel and will bear any costs.
 
 C. The Services will be commencing on Effective Date and shall continue until
-completion of the Service unless earlier terminated as set forth hereunder;
+completion of the Service unless earlier terminated as set forth by the
+Termination Date;
 
 D. Contractor shall invoice the Customer for Services performed based upon
 such Payment Fee on a monthly basis. Payment on invoices shall be due fifteen
