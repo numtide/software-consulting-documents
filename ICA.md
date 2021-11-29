@@ -28,7 +28,7 @@ pay for the amount of Payment Fee based on the Services provided by
 Contractor;
 
 B. Contractor shall provide the services using suitably qualified personnel of
-their own choosing. Customer reserves the right to substitute any personnel,
+their own choosing. Contractor reserves the right to substitute any personnel,
 provided that Customer is reasonably satisfied that the substitute possesses
 the necessary skills and qualifications for the satisfactory completion of the
 services. Contractor will remain liable for the services completed by
