@@ -18,8 +18,8 @@ Given:
 * **Payment Fee**: XXX GBP / hour
 * **Out-of-Pocket Expenses** (OPE): as agreed before expenses are incurred
 
-Customer and Contractor are referred to each as a **Customer** and
-collectively as the **Parties**.
+Customer and Contractor are referred to each as a **Party** and collectively
+as the **Parties**.
 
 ## Wheras
 
