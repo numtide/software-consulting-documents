@@ -223,7 +223,7 @@ Customer, under this Agreement;
 
 3.2. Contractor warrants that, to the best of Contractor’s knowledge, there is
 no other existing contract or duty on Customer’s part that conflicts with or
-is inconsistent with this Agreement. Contractor agrees to indemnify Parti A
+is inconsistent with this Agreement. Contractor agrees to indemnify Customer
 from any and all loss or liability incurred by reason of the alleged breach by
 Contractor of any services agreement with any third party.
 
