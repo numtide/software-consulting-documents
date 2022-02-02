@@ -101,8 +101,8 @@ the Parties shall in good faith attempt to resolve such dispute by negotiation
 and mutual consultation.
 
 L. The Parties agree that all provisions stipulated in letter F, G, H, I, J
-and K in this section shall survive the expiration or termination of this
-Agreement;
+and K in this section shall survive up to 2 years after the expiration or
+termination of this Agreement;
 
 M. The Parties agree to exercising good faith and best efforts to adhere to
 all clauses stipulated in this section and Standard Conditions.
