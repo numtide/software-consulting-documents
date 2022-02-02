@@ -259,12 +259,12 @@ remitting income taxes and social security payments;
 
 6.2. Contractor agrees to pay, as and when due, any and all taxes assessed or
 incurred in connection with Contractor's compensation hereunder, including
-estimated taxes, and will provide Parti A with documentation of such payment
+estimated taxes, and will provide Customer with documentation of such payment
 upon request. Contractor further agrees to indemnify and hold Customer
 harmless from and against liability for any and all such payments, including
 but not limited to the case where the Jurisdiction of Contractor has
 withholding requirements different from the jurisdiction of the company.
-Nevertheless, Parti B agrees that Customer may withhold from payment to
+Nevertheless, Contractor agrees that Customer may withhold from payment to
 Contractor any amounts which Customer determines it is required to withhold by
 applicable law. Customer agrees to notify Contractor of the requirement to
 withhold an amount from payment within 3 business days of Customer’s knowledge
