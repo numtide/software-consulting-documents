@@ -300,13 +300,8 @@ Contractor's obligations hereunder; and
 of the Services, and will receive no assistance, direction, supervision or control from
 Customer except as specifically set forth in Standard Conditions. 
 
-<!-- This is contradictory to the point 6.4.2 - it states that you won't pay for insurance, unemployement, worker's comp etc. but here states that you will pay for the insurance costs for all of these. Additionally, as you don't want to set up an employment contract, you might want to get rid of the 'worker's compensation' reference  -->
-6.5. Contractor shall be solely responsible for obtaining, at Customer's
-expense and in Contractor's name, disability, worker's compensation or other
-insurance as well as all licenses and permits usual or necessary for
-conducting the Services hereunder. 
 
-6.6. Nothing contained in this Agreement shall be construed to place the
+6.5. Nothing contained in this Agreement shall be construed to place the
 Parties in the relationship of partners or joint ventures and neither party
 shall have any right to obligate or bind the other in any manner. Contractor
 agrees that it will not hold itself out as an authorized agent with power to
