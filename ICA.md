@@ -22,7 +22,7 @@ Given:
 Customer and Contractor are referred to each as a **Party** and collectively
 as the **Parties**.
 
-## Wheras
+## Whereas
 
 A. Contractor agrees to provide Services for Customer, and Customer agrees to
 pay for the amount of Payment Fee based on the Services provided by
@@ -290,24 +290,18 @@ relationship;
 
 6.4.2. Contractor, under no circumstances is entitled to receive from Customer
 any benefits or insurance, including without limitation any unemployment,
-workers compensation or disability benefits, vacation or sick pay; 
+worker's compensation or disability benefits, vacation or sick pay; 
 
 6.4.3. Contractor is solely responsible for determining the method and means
 by which Customer will accomplish the Services and otherwise fulfill
 Contractor's obligations hereunder; and 
 
 6.4.4. Contractor will be solely responsible for the professional performance
-of the Services, and will receive no assistance, direction or control from
+of the Services, and will receive no assistance, direction, supervision or control from
 Customer except as specifically set forth in Standard Conditions. 
 
-6.5. Contractor shall be solely responsible for obtaining, at Customer's
-expense and in Contractor's name, disability, worker's compensation or other
-insurance as well as all licenses and permits usual or necessary for
-conducting the Services hereunder. Contractor represents that Contractor has
-the qualifications, skills, and ability to perform the Services in a
-professional manner, without the advice, control or supervision of Customer;
 
-6.6. Nothing contained in this Agreement shall be construed to place the
+6.5. Nothing contained in this Agreement shall be construed to place the
 Parties in the relationship of partners or joint ventures and neither party
 shall have any right to obligate or bind the other in any manner. Contractor
 agrees that it will not hold itself out as an authorized agent with power to
