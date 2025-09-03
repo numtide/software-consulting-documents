@@ -17,6 +17,7 @@ and make sure that all the values are correct.
 
 * [Mutual Non-Disclosure Agreement](NDA.md)
 * [Independent Contractor Agreement](ICA.md)
+* [General Terms and Conditions](GTC.pdf)
 
 ## Jurisdiction and Governing laws
 
